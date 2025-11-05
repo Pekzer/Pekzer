@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Gonzalo and I'm a Programmer, from Argentina</h2>
+<h2 align="left">Hi! My name is Gonzalo and I'm a Programmer, from Argentina</h2>
+Journey before Destination
 
 ###
 
