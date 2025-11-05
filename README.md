@@ -36,12 +36,8 @@
 
 ###
 
-<img
-  align="right"
-  height="150"
-  src="https://i.imgur.com/md6lKZP.png"
-  style="border-radius: 15px; border: 2px solid #444; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
-/>
+<img align="right" height="150" src="https://i.imgur.com/md6lKZP.png" style="border-radius: 15px;" />
+
 
 ###
 
