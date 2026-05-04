@@ -1,6 +1,9 @@
 <h2 align="left">Hi! My name is Gonzalo and I'm a Programmer, from Argentina</h2>
 Journey before Destination
 
+<div>
+  
+<div/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
